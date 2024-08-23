@@ -1,0 +1,14 @@
+C:\Users\wooonotcool\source\repos\BMI Calc Test\bin\Release\BMI.accdb
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMICalc.vbproj.AssemblyReference.cache
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMI_Calc_Test.AboutApp.resources
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMI_Calc_Test.BMICalculator.resources
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMI_Calc_Test.Resources.resources
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMICalc.vbproj.GenerateResource.cache
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMICalc.vbproj.CoreCompileInputs.cache
+C:\Users\wooonotcool\source\repos\BMI Calc Test\bin\Release\BMI Calculator.exe.config
+C:\Users\wooonotcool\source\repos\BMI Calc Test\bin\Release\BMI Calculator.exe
+C:\Users\wooonotcool\source\repos\BMI Calc Test\bin\Release\BMI Calculator.pdb
+C:\Users\wooonotcool\source\repos\BMI Calc Test\bin\Release\BMI Calculator.xml
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMI Calculator.exe
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMI Calculator.xml
+C:\Users\wooonotcool\source\repos\BMI Calc Test\obj\Release\BMI Calculator.pdb
